@@ -1,5 +1,11 @@
 # GPT-4 AI Summarizer App
 
+
+https://github.com/rjrahul08/AI-Summarizer-App/assets/61372250/6d1abbe5-dbd2-479b-b376-199a4ca55d79
+
+
+
+
 ![Screenshot (165)](https://github.com/rjrahul08/AI-Summarizer-App/assets/61372250/0571b393-cd9b-46cb-b5bb-58d42402582f)
 ![Screenshot (166)](https://github.com/rjrahul08/AI-Summarizer-App/assets/61372250/6d38f9bb-3896-46e7-adbd-088bdc00038b)
 
